@@ -38,6 +38,14 @@ cd ed-colony-construction-tracker
 python colony_tracker_gui.py
 ```
 
+## 📷 Sample Screenshots
+
+Example input files can be found in the `sample_screenshots/` folder. These show ideal formatting for in-game screenshots.
+
+- Use a clear UI (no overlays)
+- Ensure all commodities and quantities are visible
+- Take multiple screenshots if needed for scrolling
+
 ## 🖼️ How It Works
 
 1. **Take screenshots** of the commodity requirements screen in-game (clean layout preferred).
